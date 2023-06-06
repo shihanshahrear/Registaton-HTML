@@ -39,6 +39,38 @@ main {
 position: relative;
 }
 
+.divider{
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+}
+
+.before, .after{
+    height: 2px;
+    width: 45%;
+    background-color: var(--primary);
+    display: flex;
+}
+.before{
+    margin-right: 10px;
+}
+.after{
+    margin-left: 10px;
+}
+form{
+width: 60%;
+margin:  0 auto;
+
+}
+
+
+
+
+
+
 
 
 
