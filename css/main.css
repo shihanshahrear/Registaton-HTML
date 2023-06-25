@@ -21,6 +21,7 @@ main {
   }
   .right{
     flex-basis: 60%;
+    height: 745px;
     background-color:white;
     padding: 20px;
     border-radius: 70px 0 0 70px;
@@ -29,7 +30,10 @@ main {
 
 
   .h1{
-    margin: 10px;
+    margin: 20px;
+    
+    
+    
 }
 
 
